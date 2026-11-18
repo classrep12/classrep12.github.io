@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Harshita Tiwari monogram">
+  <defs>
+    <linearGradient id="ht-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#5b46f6" />
+      <stop offset="100%" stop-color="#0284c7" />
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="url(#ht-grad)" />
+  <path d="M16 20h5v10h10V20h5v24h-5V34H21v10h-5V20zm23 0h13v4.5h-4V44h-5V24.5h-4V20z" fill="#ffffff" />
+</svg>
